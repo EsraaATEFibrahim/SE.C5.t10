@@ -1,7 +1,10 @@
 # SE.C5.t10
 
 Project title: SPRINT 0
+
 Getting Started: This Repository "SE.C5.t10" contains Sprint 0, which is mainly a description of the team members and information about them
+
+
 Author 1 : Esraa AbdelFatah / 37-7575 
 Author 2: 
 Author 3:
