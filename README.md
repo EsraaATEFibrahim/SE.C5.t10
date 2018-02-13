@@ -5,9 +5,9 @@ Project title: SPRINT 0
 Getting Started: This Repository "SE.C5.t10" contains Sprint 0, which is mainly a description of the team members and information about them
 
 
-Author 1 : Esraa AbdelFatah / 37-7575 
+Author 1: Esraa AbdelFatah / 37-7575 
 Author 2: Yomna Osama / 37-11566
-Author 3:
+Author 3: Mariam Mahran / 37-16751
 Author 4:
 Author 5:
 
@@ -18,7 +18,12 @@ I have two brothers and lots of friends. My dream is to work at Google and I’m
 
 About Author 2: "Yomna Osama"
  I am a university student, 
-About Author 3:
+ 
+ 
+About Author 3: "Mariam Mahran"
+I am a computer science student and I love my major, I hope I acn achive my dream and have a happy life :).
+
+
 About Author 4:
 About Author 5:
 
