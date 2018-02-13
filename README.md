@@ -31,7 +31,7 @@ I have two brothers and lots of friends. My dream is to work at Google and I’m
  
  
 # About Author 3: "Mariam Mahran"
-I am a computer science student and I love my major, I hope I acn achive my dream and have a happy life :).
+I am a computer science student and I love my major, I hope I acn achive my dream and have a happy life :)  .
 
 
 # About Author 4: " Ola Elarif"
