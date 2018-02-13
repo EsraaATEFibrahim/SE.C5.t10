@@ -21,7 +21,7 @@ ola elarif / **_34-2880_**
 ## Author 5:
 
 ### About Author 1 "Esraa AbdelFatah" :
-I am a 20 years old university student, was born in October, I’ve feel in love with Media and Engineering Faculty since the first semester.*>.<*
+I am a 20 years old university student, was born in October, I’ve feel in love with Computer Science  since the first semester.*>.<*
 I have two brothers and lots of friends. My dream is to work at Google and I’m working on it ~~  d-(^.^)-b
 
 
