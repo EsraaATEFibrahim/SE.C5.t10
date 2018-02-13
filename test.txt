@@ -1,3 +1,0 @@
-test merging conflict
-
-test 1
