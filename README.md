@@ -1,7 +1,7 @@
  
 # SE.C5.t10
 
-# Project title: SPRINT 0
+# Project title: SPRINT 0  
 
 # Getting Started: 
 This Repository "SE.C5.t10" contains Sprint 0, which is mainly a description of the team members and information about them
