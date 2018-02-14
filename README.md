@@ -3,7 +3,7 @@
 ### Project title: SPRINT 0
 
 ### Getting Started: 
-This Repository **_"SE.C5.t10"_**  contains Sprint 0, which is mainly a description of the team members and information about them, this sprint is also for us to get used to using git hub-git bash :expressionless:
+This Repository **_"SE.C5.t10"_**  contains Sprint 0, which is mainly a description of the team members and information about them, this sprint is also for us to get used to using git hub-git bash :v:
 
 
 ## Author 1:
