@@ -7,21 +7,21 @@ This Repository **_"SE.C5.t10"_**  contains Sprint 0, which is mainly a descript
 
 
 ## Author 1:
-Esraa AbdelFatah / **_37-7575_**  
+>Esraa AbdelFatah / **_37-7575_**  
 
 ## Author 2:
-Yomna Osama / **_37-11566_**
+>Yomna Osama / **_37-11566_**
 
 ## Author 3:
-Mariam Mahran / **_37-16751_**
+>Mariam Mahran / **_37-16751_**
 
 ## Author 4:
-ola elarif / **_34-2880_**
+>ola elarif / **_34-2880_**
 
 ## Author 5:
 
 ### About Author 1 "Esraa AbdelFatah" :
-I am a 20 years old university student, was born in October, I’ve feel in love with Computer Science  since the first semester.*>.<*
+>I am a 20 years old university student, was born in October, I’ve feel in love with Computer Science  since the first semester.*>.<*
 I have two brothers and lots of friends. My dream is to work at Google and I’m working on it ~~  d-(^.^)-b
 
 
