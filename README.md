@@ -35,7 +35,7 @@ I have two brothers and lots of friends. My dream is to work at Google and I’m
 >I am a computer science student and I love my major, I hope I acn achive my dream and have a happy life :)  .
 
 
-### About Author 4: " Ola Elarif" :see_no_evil:
+### About Author 4: " Ola Elarif" :stuck_out_tongue_winking_eye:
 >I am ola elarif I  am 34- but i decided to take with 37 rather than 34 and to switch bachelor with the 10th semester :)
 
 
