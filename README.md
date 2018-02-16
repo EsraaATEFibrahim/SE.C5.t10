@@ -1,6 +1,5 @@
  # SE.C5.t10
 
-### Project title: SPRINT 0
 
 ### Getting Started: 
 This Repository **_"SE.C5.t10"_**  contains Sprint 0, which is mainly a description of the team members and information about them, this sprint is also for us to get used to using git hub-git bash :v:
@@ -43,6 +42,7 @@ I have two brothers and lots of friends. My dream is to work at Google and I’m
 
 ### About Author 5: Omar Tarek
 switched tutorials
+
 
 
 
